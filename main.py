@@ -2,8 +2,8 @@ from pyrogram import Client
 from pyrogram.raw.types import UpdatePendingJoinRequests
 from pyrogram.raw.types import ChannelParticipantsRecent
 
-api_id = 25981977
-api_hash = "82cf4c60a901e63931b0f612c083e613"
+api_id = 25424480
+api_hash = "5f726d34d6c9708ff35b43069503dbad"
 
 
 app = Client("my_account", api_id=api_id, api_hash=api_hash)
